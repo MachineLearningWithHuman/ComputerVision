@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# data files
+Advanced Computer Vision with TensorFlow/Code/8609_course-working-files/images
+Learning Computer Vision with TensorFlow/data
+Learning Computer Vision with TensorFlow/images
 # Distribution / packaging
 .Python
 build/
@@ -34,6 +38,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
+#data
 
 # Unit test / coverage reports
 htmlcov/
